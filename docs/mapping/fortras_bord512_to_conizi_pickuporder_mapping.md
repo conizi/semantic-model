@@ -1,5 +1,3 @@
-![conizi](conizi.png)
-
 <div style="text-align: center;">
 	<h1>Mapping Guideline for FORTRAS BORD512 to conizi pickup order format</h1>
 	<strong>v1.1 - 2019-MAY-17</strong>

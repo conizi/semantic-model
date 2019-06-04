@@ -1,5 +1,3 @@
-![conizi](conizi.png)
-
 <div style="text-align: center;">
 	<h1> Mapping Guideline for FORTRAS ENTL512 to Conizi Event Bulk format</h1>
 	<strong>v1.1 - 2019-MAY-16</strong>

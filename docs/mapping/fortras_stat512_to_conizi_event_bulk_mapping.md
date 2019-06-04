@@ -1,6 +1,3 @@
-![conizi](conizi.png)
-
-
 <div style="text-align: center;">
 	<h1> Mapping Guideline for FORTRAS STAT512 to Conizi Event Bulk format</h1>
 	<strong>v1.2 - 2019-MAY-17</strong>

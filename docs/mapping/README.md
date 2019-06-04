@@ -1,6 +1,3 @@
-![conizi](conizi.png)
-
-
 <div style="text-align: center;">
 	<h1>Mapping Guidelines for Converting FORTRAS REL100 Messages into Conizi Format</h1>
 	<strong>v1.2 - 2019-MAY-14</strong>
